@@ -21,8 +21,8 @@ conocimiento de cada técnico.
 
 ## Enlaces
 
-- **Tablero del proyecto (GitHub Projects):** _[completar con el enlace del tablero]_
-- **Historias de usuario (issues):** pestaña *Issues* de este repositorio
+- **Tablero del proyecto (GitHub Projects): https://github.com/leonoscar991/TPI_OE_MetriLab
+- **Historias de usuario (issues): https://github.com/users/leonoscar991/projects/1/views/1
 
 ## Contenido del repositorio
 
