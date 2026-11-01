@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2980" height="1150" viewBox="0 0 2980 1150">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1b2a30"/></marker><marker id="openarrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M1,1 L12,7 L1,13 z" fill="#ffffff" stroke="#5e7c85" stroke-width="1.5"/></marker></defs>
+<rect width="2980" height="1150" fill="#ffffff"/>
+<rect x="30" y="30" width="2920" height="150" fill="#fbfcfc" stroke="#0e3b45" stroke-width="2.5"/>
+<line x1="78" y1="30" x2="78" y2="180" stroke="#0e3b45" stroke-width="2"/>
+<text x="59" y="105.0" font-family="Arial" font-size="17" font-weight="bold" fill="#0e3b45" text-anchor="middle" transform="rotate(-90 59 105.0)">Cliente</text>
+<text x="128" y="101.6" font-family="Arial" font-size="13" font-weight="normal" fill="#5e7c85" text-anchor="middle">Operadora de</text>
+<text x="128" y="117.5" font-family="Arial" font-size="13" font-weight="normal" fill="#5e7c85" text-anchor="middle">petróleo y gas</text>
+<rect x="30" y="220" width="2920" height="900" fill="#ffffff" stroke="#0e3b45" stroke-width="2.5"/>
+<line x1="78" y1="220" x2="78" y2="1120" stroke="#0e3b45" stroke-width="2"/>
+<text x="59" y="670.0" font-family="Arial" font-size="18" font-weight="bold" fill="#0e3b45" text-anchor="middle" transform="rotate(-90 59 670.0)">MetriLab S.R.L.</text>
+<line x1="235" y1="220" x2="235" y2="350" stroke="#0e3b45" stroke-width="1.5"/>
+<text x="156.5" y="281.6" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Comercial y</text>
+<text x="156.5" y="297.5" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Atención al Cliente</text>
+<line x1="78" y1="350" x2="2950" y2="350" stroke="#0e3b45" stroke-width="1.5"/>
+<line x1="235" y1="350" x2="235" y2="480" stroke="#0e3b45" stroke-width="1.5"/>
+<text x="156.5" y="411.6" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Recepción y</text>
+<text x="156.5" y="427.5" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Depósito</text>
+<rect x="78" y="480" width="2872" height="130" fill="#f6f9fa"/>
+<line x1="78" y1="480" x2="2950" y2="480" stroke="#0e3b45" stroke-width="1.5"/>
+<line x1="235" y1="480" x2="235" y2="610" stroke="#0e3b45" stroke-width="1.5"/>
+<text x="156.5" y="541.6" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Sistema de Inventario</text>
+<text x="156.5" y="557.5" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">de Calibración</text>
+<line x1="78" y1="610" x2="2950" y2="610" stroke="#0e3b45" stroke-width="1.5"/>
+<line x1="235" y1="610" x2="235" y2="860" stroke="#0e3b45" stroke-width="1.5"/>
+<text x="156.5" y="731.6" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Laboratorio de</text>
+<text x="156.5" y="747.5" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Calibración</text>
+<line x1="78" y1="860" x2="2950" y2="860" stroke="#0e3b45" stroke-width="1.5"/>
+<line x1="235" y1="860" x2="235" y2="990" stroke="#0e3b45" stroke-width="1.5"/>
+<text x="156.5" y="921.6" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Responsable</text>
+<text x="156.5" y="937.5" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">de Calidad</text>
+<line x1="78" y1="990" x2="2950" y2="990" stroke="#0e3b45" stroke-width="1.5"/>
+<line x1="235" y1="990" x2="235" y2="1120" stroke="#0e3b45" stroke-width="1.5"/>
+<text x="156.5" y="1051.6" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">Administración</text>
+<text x="156.5" y="1067.5" font-family="Arial" font-size="13" font-weight="bold" fill="#0e3b45" text-anchor="middle">y Finanzas</text>
+<rect x="30" y="220" width="2920" height="900" fill="none" stroke="#0e3b45" stroke-width="2.5"/>
+<circle cx="260" cy="105.0" r="20" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="260" y="141.9" font-family="Arial" font-size="12" font-weight="normal" fill="#1b2a30" text-anchor="middle">Equipo a</text>
+<text x="260" y="156.5" font-family="Arial" font-size="12" font-weight="normal" fill="#1b2a30" text-anchor="middle">calibrar</text>
+<rect x="336.0" y="68.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="420" y="101.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Enviar equipo y</text>
+<text x="420" y="118.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">solicitud de servicio</text>
+<path d="M 280,105.0 L 336,105.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="336.0" y="248.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="420" y="281.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Abrir orden</text>
+<text x="420" y="298.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">de trabajo</text>
+<path d="M 420,142.0 L 420,248.0" fill="none" stroke="#5e7c85" stroke-width="2" stroke-dasharray="8,6" marker-end="url(#openarrow)"/>
+<circle cx="420" cy="142.0" r="5" fill="#ffffff" stroke="#5e7c85" stroke-width="2"/>
+<rect x="536.0" y="378.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="620" y="411.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Recibir e</text>
+<text x="620" y="428.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">identificar equipo</text>
+<path d="M 504,285.0 L 620,285.0 L 620,378.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="736.0" y="508.0" width="168" height="74" rx="12" fill="#eef3f4" stroke="#0e3b45" stroke-width="2"/>
+<text x="820" y="532.8" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Registrar equipo</text>
+<text x="820" y="549.9" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">y asignar ID</text>
+<text x="820" y="567.0" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">(estado: en espera)</text>
+<circle cx="750.0" cy="522.0" r="6" fill="none" stroke="#0e3b45" stroke-width="2"/>
+<circle cx="750.0" cy="522.0" r="2" fill="#0e3b45"/>
+<path d="M 704,415.0 L 820,415.0 L 820,508.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="936.0" y="643.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="1020" y="676.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Seleccionar patrón</text>
+<text x="1020" y="693.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">de referencia</text>
+<path d="M 820,582.0 L 820,680 L 936,680" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1136.0" y="508.0" width="168" height="74" rx="12" fill="#eef3f4" stroke="#0e3b45" stroke-width="2"/>
+<text x="1220" y="541.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Verificar vigencia</text>
+<text x="1220" y="558.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">del patrón</text>
+<circle cx="1150.0" cy="522.0" r="6" fill="none" stroke="#0e3b45" stroke-width="2"/>
+<circle cx="1150.0" cy="522.0" r="2" fill="#0e3b45"/>
+<path d="M 1104,680 L 1160,680 L 1160,582.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<polygon points="1400,515.0 1430,545.0 1400,575.0 1370,545.0" fill="#fff7e8" stroke="#b37400" stroke-width="2"/>
+<line x1="1390" y1="535.0" x2="1410" y2="555.0" stroke="#b37400" stroke-width="3"/>
+<line x1="1390" y1="555.0" x2="1410" y2="535.0" stroke="#b37400" stroke-width="3"/>
+<text x="1400" y="503.6" font-family="Arial" font-size="13" font-weight="bold" fill="#7a5200" text-anchor="middle">¿Patrón vigente?</text>
+<path d="M 1304,545.0 L 1370,545.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 1400,575.0 L 1400,597.0 L 1040,597.0 L 1040,643.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1227.6" y="585.0" width="124.79999999999998" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="1290" y="599.5" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">No: lo bloquea</text>
+<rect x="1496.0" y="643.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="1580" y="676.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Calibrar equipo y</text>
+<text x="1580" y="693.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">calcular incertidumbre</text>
+<path d="M 1430,545.0 L 1580,545.0 L 1580,643.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1491.8" y="533.0" width="26.4" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="1505" y="547.5" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">Sí</text>
+<polygon points="1770,650 1800,680 1770,710 1740,680" fill="#fff7e8" stroke="#b37400" stroke-width="2"/>
+<line x1="1760" y1="670" x2="1780" y2="690" stroke="#b37400" stroke-width="3"/>
+<line x1="1760" y1="690" x2="1780" y2="670" stroke="#b37400" stroke-width="3"/>
+<text x="1770" y="638.5" font-family="Arial" font-size="13" font-weight="bold" fill="#7a5200" text-anchor="middle">¿Resultado conforme?</text>
+<path d="M 1664,680 L 1740,680" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<polygon points="1770,765 1800,795 1770,825 1740,795" fill="#fff7e8" stroke="#b37400" stroke-width="2"/>
+<line x1="1760" y1="785" x2="1780" y2="805" stroke="#b37400" stroke-width="3"/>
+<line x1="1760" y1="805" x2="1780" y2="785" stroke="#b37400" stroke-width="3"/>
+<text x="1770" y="847.5" font-family="Arial" font-size="13" font-weight="bold" fill="#7a5200" text-anchor="middle">¿Se puede ajustar?</text>
+<path d="M 1770,710 L 1770,765" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1781.8" y="725.5" width="26.4" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="1795" y="740.0" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">No</text>
+<rect x="1496.0" y="758.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="1580" y="791.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Ajustar o</text>
+<text x="1580" y="808.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">reparar equipo</text>
+<path d="M 1740,795 L 1664,795" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1688.8" y="769" width="26.4" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="1702" y="783.5" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">Sí</text>
+<path d="M 1580,758.0 L 1580,717.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1896.0" y="758.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="1980" y="791.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Emitir dictamen</text>
+<text x="1980" y="808.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">fuera de servicio</text>
+<path d="M 1800,795 L 1896,795" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1834.8" y="769" width="26.4" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="1848" y="783.5" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">No</text>
+<rect x="2086.0" y="888.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="2170" y="921.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Validar datos</text>
+<text x="2170" y="938.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">y resultado</text>
+<path d="M 1800,680 L 2170,680 L 2170,888.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1866.8" y="668" width="26.4" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="1880" y="682.5" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">Sí</text>
+<path d="M 2064,795 L 2110,795 L 2110,888.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<polygon points="2370,895.0 2400,925.0 2370,955.0 2340,925.0" fill="#fff7e8" stroke="#b37400" stroke-width="2"/>
+<line x1="2360" y1="915.0" x2="2380" y2="935.0" stroke="#b37400" stroke-width="3"/>
+<line x1="2360" y1="935.0" x2="2380" y2="915.0" stroke="#b37400" stroke-width="3"/>
+<text x="2370" y="883.5" font-family="Arial" font-size="13" font-weight="bold" fill="#7a5200" text-anchor="middle">¿Datos correctos?</text>
+<path d="M 2254,925.0 L 2340,925.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 2370,955.0 L 2370,977.0 L 1445,977.0 L 1445,680 L 1496,680" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1889.9" y="965.0" width="100.19999999999999" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="1940" y="979.5" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">No: revisar</text>
+<rect x="2476.0" y="508.0" width="168" height="74" rx="12" fill="#eef3f4" stroke="#0e3b45" stroke-width="2"/>
+<text x="2560" y="532.8" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Emitir certificado</text>
+<text x="2560" y="549.9" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">o informe vinculado</text>
+<text x="2560" y="567.0" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">al patrón</text>
+<circle cx="2490.0" cy="522.0" r="6" fill="none" stroke="#0e3b45" stroke-width="2"/>
+<circle cx="2490.0" cy="522.0" r="2" fill="#0e3b45"/>
+<path d="M 2400,925.0 L 2470,925.0 L 2470,555.0 L 2476,555.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2421.8" y="913.0" width="26.4" height="20" fill="#ffffff" opacity="0.9"/>
+<text x="2435" y="927.5" font-family="Arial" font-size="13" font-weight="bold" fill="#1b2a30" text-anchor="middle">Sí</text>
+<rect x="2476.0" y="1018.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="2560" y="1051.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Facturar</text>
+<text x="2560" y="1068.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">servicio</text>
+<path d="M 2560,582.0 L 2560,1018.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2656.0" y="378.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="2740" y="411.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Despachar equipo</text>
+<text x="2740" y="428.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">al cliente</text>
+<path d="M 2644,1055.0 L 2700,1055.0 L 2700,452.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="2656.0" y="68.0" width="168" height="74" rx="12" fill="#ffffff" stroke="#0e3b45" stroke-width="2"/>
+<text x="2740" y="101.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">Recibir equipo</text>
+<text x="2740" y="118.4" font-family="Arial" font-size="14" font-weight="normal" fill="#1b2a30" text-anchor="middle">y certificado</text>
+<path d="M 2740,378.0 L 2740,142.0" fill="none" stroke="#5e7c85" stroke-width="2" stroke-dasharray="8,6" marker-end="url(#openarrow)"/>
+<circle cx="2740" cy="378.0" r="5" fill="#ffffff" stroke="#5e7c85" stroke-width="2"/>
+<circle cx="2890" cy="105.0" r="20" fill="#fdecea" stroke="#b5482f" stroke-width="5"/>
+<text x="2890" y="143.9" font-family="Arial" font-size="12" font-weight="normal" fill="#1b2a30" text-anchor="middle">Servicio</text>
+<text x="2890" y="158.5" font-family="Arial" font-size="12" font-weight="normal" fill="#1b2a30" text-anchor="middle">completado</text>
+<path d="M 2824,105.0 L 2868,105.0" fill="none" stroke="#1b2a30" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
